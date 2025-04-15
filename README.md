@@ -1,1 +1,6 @@
-# Exam11-C-
+# Exam11-C-![Screenshot 2025-04-15 175453](https://github.com/user-attachments/assets/a4732af7-e2e1-4947-9ac7-20d5c64563a1)
+![Screenshot 2025-04-15 175433](https://github.com/user-attachments/assets/b2ac360e-67d7-414e-bdab-1147082b175f)
+![Screenshot 2025-04-15 175412](https://github.com/user-attachments/assets/1965bdd5-dd6b-47af-92f8-f2f61bed3c2c)
+![Screenshot 2025-04-15 175354](https://github.com/user-attachments/assets/73b433d9-cc86-4d79-ae0d-99c85040dbfa)
+![Screenshot 2025-04-15 175330](https://github.com/user-attachments/assets/e130b58d-d70d-4816-9e42-59879b9d36bb)
+![Screenshot 2025-04-15 175517](https://github.com/user-attachments/assets/074762f2-e910-422b-be57-c6f7c77aeedc)
